@@ -16,4 +16,4 @@ print("My name is" + " " + "AhBest")
 ```
 ___
 ### Solution
-[solution]()
+[solution](https://github.com/AhBestt/my-python-journey/blob/main/solution/day-001-inputs.py)
