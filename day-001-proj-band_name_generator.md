@@ -17,4 +17,4 @@ Your band name could be Bangkok Lhong
 
 ___
 ## Solution
-[solution]()
+[solution](https://github.com/AhBestt/my-python-journey/blob/main/solution/day-001-project.py)
